@@ -1,0 +1,7 @@
+This is my attempt to use Java to create a web game called Viral Verse.  
+Viral Verse is a game where a user is given the first line of a story.
+The story is continued with another line written by the user.  Then, another
+user can add to the story, the catch is they only get to read the previous line.
+
+This iteration is a very rough prototype and eventually the intention is to create
+a web applet.
